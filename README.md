@@ -43,8 +43,8 @@ It uses the **Model Context Protocol (MCP)**, **MCP-Agent**, and **Playwright** 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/SaadKhaquan1211/-BrowserAgent.git
-   cd -BrowserAgent
+   git clone https://github.com/SaadKhaquan1211/BrowserAgent-MCP.git
+   cd BrowserAgent-MCP
 Install dependencies
 
  ```bash
