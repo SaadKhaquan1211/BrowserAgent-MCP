@@ -1,7 +1,7 @@
 # 🌐 BrowserAgent:  Browse the web using plain English commands, powered by MCP, Playwright, and LLMs.
 
 **BrowserAgent** is a Streamlit app that turns natural language into browser actions.  
-Simply tell it what to do — *“Go to Wikipedia and summarize the homepage”* — and it does it.  
+Simply tell it what to do *“Go to Wikipedia and summarize the homepage”* — and it does it.  
 It uses the **Model Context Protocol (MCP)**, **MCP-Agent**, and **Playwright** to let you browse, click, extract, and explore the web like never before.
 
 ---
