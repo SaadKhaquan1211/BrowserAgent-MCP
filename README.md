@@ -48,12 +48,12 @@ It uses the **Model Context Protocol (MCP)**, **MCP-Agent**, and **Playwright** 
 Install dependencies
 
  ```bash
-Copy code
+
 pip install -r requirements.txt
 Verify Node.js and npm
  ```
+Check npm and node version using below command
 
-Copy code
  ```bash
 
 node --version
