@@ -119,7 +119,7 @@ A “Run Command” button
 
 - Playwright → Controls a headless browser for automation
 
-- MCP-Agent → Provides an Agentic Framework for tool use
+- <a href= "https://github.com/lastmile-ai/mcp-agent" > MCP-Agent </a> → Provides an Agentic Framework for tool use.
 
 - OpenAI / Anthropic models → Understand and execute user commands
 
